@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "media"
+    },
+    "data_tracked": false,
+    "demo_page": "https://audio-howler-plugin.bubbleapps.io/version-test?debug_mode=true",
+    "description": "English:\nThis refined version focuses solely on play/pause functionality, ensuring intuitive operation for users. Additionally, a slider control has been incorporated to easily visualize the audio's progress. This slider not only displays your current position within the track but also enables precise navigation to specific points of the audio, providing complete control over playback.\n\nLINK editor: https://bubble.io/page?name=index&id=audio-howler-plugin&test_plugin=1710991278365x886801798372261900_current&tab=tabs-1\n\n-------------------------------------------\n\nPT-BR:\nAgora, o plugin se concentra exclusivamente na funcionalidade de reprodução/pausa, garantindo uma operação intuitiva para os usuários. Adicionamos também um controle deslizante, permitindo visualizar facilmente o progresso do áudio. Esse slider não só mostra onde você está na faixa, mas também permite navegar com precisão até pontos específicos do áudio, oferecendo controle total sobre a reprodução.\n\n\nLINK editor: https://bubble.io/page?name=index&id=audio-howler-plugin&test_plugin=1710991278365x886801798372261900_current&tab=tabs-1",
+    "image": "//meta-q.cdn.bubble.io/f1711021896871x992416869119402000/https___meta-q.cdn.bubble.io_f1631317443169x473915338232866500_icon.png",
+    "license": "open_source",
+    "name": "Howler.js audio player",
+    "plugin_instructions": "English:\nAdd the element to your page and configure the audio file to be played in the plugin properties. You can play and pause the audio directly from your workflows. To change the playback speed or navigate to a specific point in the audio, adjust the element's properties (howler) using custom states or another dynamic element.\n\nPortuguês:\nAdicione o elemento à sua página e configure o arquivo de áudio que será reproduzido nas propriedades do plugin. Você pode reproduzir e pausar o áudio diretamente dentro de seus fluxos de trabalho. Para alterar a velocidade de reprodução ou ir até um ponto específico do áudio, ajuste as propriedades do elemento (howler), utilizando custom states ou outro elemento dinâmico."
+}
